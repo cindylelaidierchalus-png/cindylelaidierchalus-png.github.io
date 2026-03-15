@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.cindylelaidierchalus_png.twa",
+    "sha256_cert_fingerprints": ["9E:5D:EB:72:69:46:AC:1E:55:BC:D6:74:ED:CF:B0:46:8C:7F:E8:45:F6:E4:41:A0:B8:33:9E:C8:5C:82:0D:19"]
+  }
+}]
